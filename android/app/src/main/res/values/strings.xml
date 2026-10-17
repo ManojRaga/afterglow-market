@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Afterglow Market</string>
+    <string name="title_activity_main">Afterglow Market</string>
+    <string name="package_name">com.manoj.afterglowmarket</string>
+    <string name="custom_url_scheme">com.manoj.afterglowmarket</string>
+</resources>
